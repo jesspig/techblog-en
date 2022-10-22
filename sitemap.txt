@@ -1,6 +1,6 @@
-http://jesspig.github.io/techblog-en/about/index.html
-http://jesspig.github.io/techblog-en/2022/09/22/My-first-English-blog/
-http://jesspig.github.io/techblog-en/tags/index.html
-http://jesspig.github.io/techblog-en/categories/index.html
-http://jesspig.github.io/techblog-en/archives/index.html
-http://jesspig.github.io/techblog-en
+http://techblog-en.gh-pages.jesspig.site/about/index.html
+http://techblog-en.gh-pages.jesspig.site/2022/09/22/My-first-English-blog/
+http://techblog-en.gh-pages.jesspig.site/tags/index.html
+http://techblog-en.gh-pages.jesspig.site/categories/index.html
+http://techblog-en.gh-pages.jesspig.site/archives/index.html
+http://techblog-en.gh-pages.jesspig.site/

@@ -3,11 +3,11 @@
   <title>Jesspig&#39;s Techblog</title>
   
   
-  <link href="http://jesspig.github.io/techblog-en/atom.xml" rel="self"/>
+  <link href="http://techblog-en.gh-pages.jesspig.site/atom.xml" rel="self"/>
   
-  <link href="http://jesspig.github.io/techblog-en/"/>
+  <link href="http://techblog-en.gh-pages.jesspig.site/"/>
   <updated>2022-09-21T13:38:29.325Z</updated>
-  <id>http://jesspig.github.io/techblog-en/</id>
+  <id>http://techblog-en.gh-pages.jesspig.site/</id>
   
   <author>
     <name>Jesspig</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My first English blog</title>
-    <link href="http://jesspig.github.io/techblog-en/2022/09/22/My-first-English-blog/"/>
-    <id>http://jesspig.github.io/techblog-en/2022/09/22/My-first-English-blog/</id>
+    <link href="http://techblog-en.gh-pages.jesspig.site/2022/09/22/My-first-English-blog/"/>
+    <id>http://techblog-en.gh-pages.jesspig.site/2022/09/22/My-first-English-blog/</id>
     <published>2022-09-21T21:38:29.000Z</published>
     <updated>2022-09-21T13:38:29.325Z</updated>
     

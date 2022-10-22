@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jesspig.github.io/techblog-en/about/index.html</loc>
+    <loc>http://techblog-en.gh-pages.jesspig.site/about/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://jesspig.github.io/techblog-en/2022/09/22/My-first-English-blog/</loc>
+    <loc>http://techblog-en.gh-pages.jesspig.site/2022/09/22/My-first-English-blog/</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://jesspig.github.io/techblog-en/tags/index.html</loc>
+    <loc>http://techblog-en.gh-pages.jesspig.site/tags/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://jesspig.github.io/techblog-en/categories/index.html</loc>
+    <loc>http://techblog-en.gh-pages.jesspig.site/categories/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://jesspig.github.io/techblog-en/archives/index.html</loc>
+    <loc>http://techblog-en.gh-pages.jesspig.site/archives/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://jesspig.github.io/techblog-en</loc>
+    <loc>http://techblog-en.gh-pages.jesspig.site/</loc>
     <lastmod>2022-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
